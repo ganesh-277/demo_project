@@ -40,11 +40,7 @@ public String fname()
 	 String name = pro.getProperty("fullname");
 	 return name;
 }
-public String fatherN()
-{
-	 String fn = pro.getProperty("Fathername");
-	 return fn;
-}
+
 public String getemail()
 {
 	 String eid = pro.getProperty("em_id");
